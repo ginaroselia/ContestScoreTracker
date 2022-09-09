@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheContest</string>
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Landscape</string>
+
+    <string name="btnScore">Skor</string>
+    <string name="btnSteal">Curi</string>
+    <string name="btnReset">Set Semula</string>
+
+    <string name="warning">Skor negatif tidak dibenarkan.</string>
+    <string name="congrats">Tahniah! Anda menang!</string>
+
+</resources>
+

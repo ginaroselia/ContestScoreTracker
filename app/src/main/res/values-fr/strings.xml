@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheContest</string>
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Landscape</string>
+
+    <string name="btnScore">Score</string>
+    <string name="btnSteal">Voler</string>
+    <string name="btnReset">Réinitialiser</string>
+
+    <string name="warning">Les nombres négatifs sont interdits.</string>
+    <string name="congrats">Félicitations! Tu as gagné!</string>
+</resources>

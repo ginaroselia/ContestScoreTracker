@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheContest</string>
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Landscape</string>
+
+    <string name="btnScore">Score</string>
+    <string name="btnSteal">Steal</string>
+    <string name="btnReset">Reset</string>
+
+    <string name="warning">Negative Values Prohibited</string>
+    <string name="congrats">Congratulations! You won!</string>
+
+</resources>
